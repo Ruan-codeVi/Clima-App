@@ -1,0 +1,1 @@
+A Api utilizada é Open weather

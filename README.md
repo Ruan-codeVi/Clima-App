@@ -8,7 +8,7 @@
 
 
   
-  ![Screen](/assets/AppClima.gif)
+  ![Screen](/assets/appClima.gif)
  
 ##  Purpose of the project
 

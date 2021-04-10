@@ -13,9 +13,9 @@
 ##  Purpose of the project
 
 ## What was learned from the project
-Integrate the app with the Api
-Use API documentation to extract data only from desired end points.
-Make API requests
+Integrate the app with the Api </br>
+Use API documentation to extract data only from desired end points. </br>
+Make API requests </br>
 
 
 </div> </br> 

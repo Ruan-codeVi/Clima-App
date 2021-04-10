@@ -11,7 +11,7 @@
   ![Screen](/assets/appClima.gif)
  
 ##  Purpose of the project
-Develop an app that could bring the current film of a city or state using an external API
+Develop an app that could bring the current climate of a city or state. Using an external API
 
 ## What was learned from the project
 Integrate the app with the Api </br>

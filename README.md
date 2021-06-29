@@ -14,7 +14,7 @@
 Develop an app that could bring the current climate of a city or state. Using an external API
 
 ## What was learned from the project
-Integrate the app with the Api </br>
+Integrate the app with the Api. </br>
 Use API documentation to extract data only from desired end points. </br>
 Make API requests </br>
 

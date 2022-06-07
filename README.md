@@ -12,17 +12,17 @@
   ![Screen](/assets/appClima.gif)
  
 ##  Purpose of the project
-Develop an app that could bring the current climate of a city or state. Using an external API.
-Desenvolva um aplicativo que possa trazer o clima atual de uma cidade ou estado. Usando uma API externa.
+Develop an app that could bring the current climate of a city or state. Using an external API.</br>
+Desenvolva um aplicativo que possa trazer o clima atual de uma cidade ou estado. Usando uma API externa.</br>
   
 ## What was learned from the project
-Integrate the app with the Api.
+Integrate the app with the Api.</br>
 Integrar o aplicativo com a API</br>
 
-Use API documentation to extract data only from desired end points.
+Use API documentation to extract data only from desired end points.</br>
 Usar a documentação da API para extrair dados apenas dos pontos finais desejados.</br>
 
-Make API requests. 
+Make API requests.</br> 
 Trabalhar com requisições e tratamento de reposta</br>
 
 

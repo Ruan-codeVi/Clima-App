@@ -5,18 +5,25 @@
 # ClimaApp 
 
 ### Description : Project climate web app using the open Weather API to receive the updated weather of the chosen city
+                Projeto aplicativo web de clima, usando a API Open Source de clima Weather API  para receber o clima atual da cidade escolhida.
 
 
   
   ![Screen](/assets/appClima.gif)
  
 ##  Purpose of the project
-Develop an app that could bring the current climate of a city or state. Using an external API
-
+Develop an app that could bring the current climate of a city or state. Using an external API.
+Desenvolva um aplicativo que possa trazer o clima atual de uma cidade ou estado. Usando uma API externa.
+  
 ## What was learned from the project
-Integrate the app with the Api. </br>
-Use API documentation to extract data only from desired end points. </br>
-Make API requests. </br>
+Integrate the app with the Api.
+Integrar o aplicativo com a API</br>
+
+Use API documentation to extract data only from desired end points.
+Usar a documentação da API para extrair dados apenas dos pontos finais desejados.</br>
+
+Make API requests. 
+Trabalhar com requisições e tratamento de reposta</br>
 
 
 </div> </br> 

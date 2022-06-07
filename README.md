@@ -8,7 +8,7 @@
                 Projeto aplicativo web de clima, usando a API Open Source de clima Weather API  para receber o clima atual da cidade escolhida.
 
 
-  
+#Project Screen</br>  
   ![Screen](/assets/appClima.gif)
  
 ##  Purpose of the project
